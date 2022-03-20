@@ -5,6 +5,8 @@ MR.류의 Github Repository
 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
+![Lemonfry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemonfry)
+
 <!--
 **Lemonfry/Lemonfry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
